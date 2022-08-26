@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
         <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/layout/activity_fruit.xml" value="0.125" />
         <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/layout/fruit_item.xml" value="0.125" />
+        <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/layout/nav_header.xml" value="0.22350427350427352" />
+        <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/menu/nav_menu.xml" value="0.194140625" />
         <entry key="..\:/reverse/forwarded_workspace/MaterialTest/app/src/main/res/menu/toolbar.xml" value="0.26979166666666665" />
       </map>
     </option>

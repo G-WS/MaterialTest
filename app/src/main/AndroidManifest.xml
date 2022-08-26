@@ -14,9 +14,12 @@
         android:theme="@style/Theme.MaterialTest"
         tools:targetApi="31">
         <activity
+            android:name=".FruitActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
-            android:label="Fruits"
-            android:exported="true">
+            android:exported="true"
+            android:label="Fruits">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

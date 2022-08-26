@@ -3,4 +3,12 @@
     <string name="backup">Backup</string>
     <string name="delete">Delete</string>
     <string name="settings">Settings</string>
+    <string name="this_menu">This menu</string>
+    <string name="apple">apple</string>
+    <string name="banana">banana</string>
+    <string name="cherries">cherris</string>
+    <string name="grapes">grapes</string>
+    <string name="_12345678_qq_com">12345678@qq.com</string>
+    <string name="tony_clurse">Tony Clurse</string>
+    <string name="todo">TODO</string>
 </resources>
